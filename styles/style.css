@@ -5,13 +5,13 @@ html {
     color: #DAF513
 }
 
-h1, dt {
+h1 {
   margin: 0;
   padding: 20px 0;    
   color: #DAF513;
 }
 
-p, li, dd {
+p, li {
   font-size: 16px;    
   line-height: 2;
   letter-spacing: 1px;
@@ -28,4 +28,10 @@ body {
 img {
   display: block;
   margin: 0 auto;
+}
+
+dl {
+  margin: 0;
+  padding: 20px 0;    
+  color: #DAF513;
 }
