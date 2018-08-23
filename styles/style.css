@@ -5,13 +5,13 @@ html {
     color: #DAF513
 }
 
-h1 {
+h1, dt {
   margin: 0;
   padding: 20px 0;    
   color: #DAF513;
 }
 
-p, li, dt {
+p, li {
   font-size: 16px;    
   line-height: 2;
   letter-spacing: 1px;
