@@ -11,7 +11,7 @@ h1 {
   color: #DAF513;
 }
 
-p, li {
+p, li, dl {
   font-size: 16px;    
   line-height: 2;
   letter-spacing: 1px;
@@ -28,10 +28,4 @@ body {
 img {
   display: block;
   margin: 0 auto;
-}
-
-dl {
-  margin: 0;
-  padding: 20px 0;    
-  color: #DAF513;
 }
