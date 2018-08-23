@@ -11,7 +11,7 @@ h1, dt {
   color: #DAF513;
 }
 
-p, li {
+p, li, dd, dt {
   font-size: 16px;    
   line-height: 2;
   letter-spacing: 1px;
@@ -29,12 +29,3 @@ img {
   display: block;
   margin: 0 auto;
 }
-
-dt {
-    font-weight: bold;
-    text-decoration: underline;
-  }
-  dd {
-    margin: 0;
-    padding: 0 0 0.5em 0;
-  }
